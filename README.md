@@ -5,6 +5,7 @@
     <title>Linda Balode</title>
 </head>
 <body>
+<h1>Linda Balode<a</h1>
 <h1>I am PHP developer, building my version on the digital world
 one step at the time. All coding projects are builded from the ground up, from planing all the way to solving real life problems with code.
 </h1>
